@@ -1,3 +1,6 @@
 print ("Diane Cyridel D. Cabillos")
 print ("Brgy. Bagong Silang, Santa Cruz, Marinduque")
 print ("September 17, 2004")
+print ("College of Information and Computing Sciences")
+print ("Bachelor of Science in Information Technology")
+print ("2nd year- A")
